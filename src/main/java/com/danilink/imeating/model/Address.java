@@ -1,4 +1,4 @@
-package com.danilink.fx.model;
+package com.danilink.imeating.model;
 
 import lombok.Data;
 

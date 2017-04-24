@@ -1,4 +1,4 @@
-package com.danilink.fx;
+package com.danilink.imeating;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class FxcoApplication {
+public class ImeatingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FxcoApplication.class, args);
+		SpringApplication.run(ImeatingApplication.class, args);
 	}
 	
 	@Bean

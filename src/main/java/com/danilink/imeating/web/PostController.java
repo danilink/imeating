@@ -1,4 +1,4 @@
-package com.danilink.fx.web;
+package com.danilink.imeating.web;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.danilink.fx.model.Posts;
-import com.danilink.fx.repository.PostRepository;
+import com.danilink.imeating.model.Posts;
+import com.danilink.imeating.repository.PostRepository;
 
 import lombok.AllArgsConstructor;
 

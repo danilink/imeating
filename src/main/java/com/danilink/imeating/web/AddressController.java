@@ -1,4 +1,4 @@
-package com.danilink.fx.web;
+package com.danilink.imeating.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.danilink.fx.model.Address;
+import com.danilink.imeating.model.Address;
 
 /**
  * 
